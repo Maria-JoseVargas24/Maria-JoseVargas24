@@ -101,38 +101,13 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
 
 # GitHub racha ♡
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&title_color=e58ba8&icon_color=e58ba8&text_color=777777&bg_color=fff7fa" />
-
-</p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=fff7fa&ring=e58ba8&fire=e58ba8&currStreakLabel=e58ba8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maria-JoseVargas24&hide_border=true&background=fff7fa&ring=e58ba8&fire=e58ba8&currStreakLabel=e58ba8" />
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&title_color=e58ba8&text_color=777777&bg_color=fff7fa" />
-
-</p>
-
----
-# 🎀 Soft Skills
-
-<p align="center">
-
-♡ Creatividad
-♡ Resolución de problemas
-♡ Trabajo en equipo
-♡ Comunicación efectiva
-♡ Adaptación rápida
-♡ Responsabilidad
-♡ Orientación al usuario
-
-</p>
 
 ---
 
@@ -149,8 +124,6 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
 </a>
 
 </p>
-
----
 
 <p align="center">
 
