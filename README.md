@@ -26,16 +26,6 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
 
 > *Diseñar bonito es importante, pero diseñar pensando en quien lo utiliza lo es aún más.*
 
----
-
-<p align="center">
-
-🐱
-**welcome to my little corner of GitHub**
-🐱
-
-</p>
-
 <p align="center">
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="170">
@@ -44,10 +34,9 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
 
 ---
 
-# 🎀 Sobre mí
+# Conocimientos Técnicos ♡
 
 ```text
-              🌷 MARÍA JOSÉ 🌷
 
         🎨 UI/UX Designer
                 │
@@ -76,39 +65,7 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
 
 ---
 
-# 🎨 Mi mundo UI/UX
-
-<p align="center">
-
-🎀 **IDEA** → 🔎 **RESEARCH** → 📝 **WIREFRAME** → 🎨 **UI** → ✨ **PROTOTYPE** → 💻 **CODE**
-
-</p>
-
-### ♡ Mi proceso
-
-```text
-💭 Idea
-   ↓
-🔎 Entender al usuario
-   ↓
-📝 Wireframe
-   ↓
-🎨 Diseño UI
-   ↓
-✨ Prototipo
-   ↓
-📱 Responsive
-   ↓
-💻 Desarrollo Frontend
-```
-
-Me interesa especialmente crear interfaces que sean:
-
-**bonitas + intuitivas + accesibles + responsive + funcionales ♡**
-
----
-
-# 💻 Tech Stack
+# 💻 Herramientas
 
 ### 🎨 Design
 
@@ -142,33 +99,7 @@ Me interesa especialmente crear interfaces que sean:
 
 ---
 
-# 🌸 Actualmente aprendiendo
-
-<p align="center">
-
-🎨 **UI/UX**
-
-██████████████████░░ **90%**
-
-💻 **Frontend**
-
-███████████████░░░░░ **75%**
-
-🌐 **Networking**
-
-████████████░░░░░░░░ **60%**
-
-✨ **Nuevas tecnologías**
-
-██████████████░░░░░░ **70%**
-
-</p>
-
-> 🌷 *The goal is not perfection. The goal is progress.*
-
----
-
-# 📊 My GitHub ♡
+# GitHub racha ♡
 
 <p align="center">
 
@@ -189,84 +120,6 @@ Me interesa especialmente crear interfaces que sean:
 </p>
 
 ---
-
-# 🐱 GitHub cat corner
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120">
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120">
-
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120">
-
-</p>
-
-<p align="center">
-
-♡ coding with cats is better ♡
-
-</p>
-
----
-
-# 🌷 Mis proyectos
-
-### 🎨 UI/UX Design
-
-Diseño de interfaces orientadas a una navegación clara, intuitiva y centrada en el usuario.
-
-**♡ Incluye**
-
-* Wireframes
-* Prototipos
-* Diseño UI/UX
-* Responsive Design
-* Componentes
-* Elementos visuales
-
----
-
-### 💻 Frontend Development
-
-Creación de interfaces web utilizando HTML, CSS y JavaScript.
-
-**♡ Incluye**
-
-* Estructura HTML
-* Diseño CSS
-* JavaScript
-* Responsive Design
-* Interactividad
-* Organización del código
-
----
-
-### 🌐 Networking
-
-Simulación y configuración de redes mediante Cisco Packet Tracer.
-
-**♡ Incluye**
-
-* OSPF
-* ACL
-* NAT
-* Direccionamiento IP
-* Escenarios de conectividad
-* Diagnóstico de fallas
-
----
-
-# 🐍 Contribution garden
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
 # 🎀 Soft Skills
 
 <p align="center">
@@ -283,7 +136,7 @@ Simulación y configuración de redes mediante Cisco Packet Tracer.
 
 ---
 
-# 💌 Let's connect
+# Contacto ♡
 
 <p align="center">
 
@@ -297,12 +150,6 @@ Simulación y configuración de redes mediante Cisco Packet Tracer.
 
 </p>
 
-<p align="center">
-
-📍 Trujillo, Perú 🇵🇪
-
-</p>
-
 ---
 
 <p align="center">
@@ -311,19 +158,7 @@ Simulación y configuración de redes mediante Cisco Packet Tracer.
 
 ### ♡ Gracias por visitar mi perfil ♡
 
-*Diseñando experiencias, escribiendo código y aprendiendo algo nuevo cada día.* 🌷
-
 </p>
 
-<p align="center">
 
-🌸 ──────────────── 🌸
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile+views&color=e58ba8&style=flat" />
-
-</p>
 
