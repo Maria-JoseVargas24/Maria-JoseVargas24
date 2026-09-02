@@ -65,52 +65,6 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
 
 ---
 
-# 💻 Herramientas
-
-### 🎨 Design
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma&theme=light" />
-
-</p>
-
-### 🌷 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
-
-</p>
-
-### 🌐 Networking & Systems
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux&theme=light" />
-
-</p>
-
-<p align="center">
-
-🌐 TCP/IP · 📡 OSPF · 🔐 ACL · 🔄 NAT · 🖥️ Cisco Packet Tracer · 🐧 Linux
-
-</p>
-
----
-
-# GitHub racha ♡
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maria-JoseVargas24&hide_border=true&background=fff7fa&ring=e58ba8&fire=e58ba8&currStreakLabel=e58ba8" />
-
-</p>
-
-
----
-
 # Contacto ♡
 
 <p align="center">
