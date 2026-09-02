@@ -16,25 +16,15 @@
 
 </p>
 
-<p align="center">
-  🌷 ✦ 🎀 ✦ 💗 ✦ 🌸 ✦ 🧁 ✦ 🌷
-</p>
-
 ---
 
-# 🌸 Hola, soy María José ♡
-
-### 🎀 UI/UX Designer · Frontend Developer · Systems Engineering Student
+# 🌸 Sobre mí ♡
 
 Soy estudiante de **9.º ciclo de Ingeniería de Sistemas** en la Universidad César Vallejo.
 
-Mi principal interés está en el **diseño UI/UX y el desarrollo Frontend**, especialmente en crear interfaces claras, intuitivas, responsive y centradas en el usuario.
+Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de soluciones digitales y con especial interés en Diseño UI/UX y experiencia de usuario. Cuento con conocimientos en HTML, CSS, JavaScript, diseño de interfaces, bases de datos SQL/MySQL y fundamentos de redes.Me interesa participar en proyectos donde pueda aplicar mis conocimientos en el diseño y desarrollo de interfaces funcionales, intuitivas y centradas en el usuario, mientras continúo fortaleciendo mis habilidades técnicas y profesionales.Destaco por mi capacidad de aprendizaje, resolución de problemas, creatividad, responsabilidad, trabajo en equipo y adaptación a nuevas tecnologías.
 
-Me gusta transformar ideas en experiencias digitales visualmente atractivas, cuidando tanto el **diseño** como la forma en que este se convierte en una interfaz funcional mediante código.
-
-También cuento con conocimientos en **redes y sistemas**, incluyendo Cisco Packet Tracer, OSPF, ACL, NAT, Linux y virtualización.
-
-> 💗 *Diseñar bonito es importante, pero diseñar pensando en quien lo utiliza lo es aún más.*
+> *Diseñar bonito es importante, pero diseñar pensando en quien lo utiliza lo es aún más.*
 
 ---
 
