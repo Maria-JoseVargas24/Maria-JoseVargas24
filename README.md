@@ -16,7 +16,7 @@
 
 </p>
 
----
+
 
 # 🌸 Sobre mí ♡
 
@@ -32,7 +32,7 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
 
 </p>
 
----
+
 
 # Conocimientos Técnicos ♡
 
@@ -63,7 +63,6 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
                 └── 🖥️ Virtualization
 ```
 
----
 
 # Contacto ♡
 
