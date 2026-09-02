@@ -125,13 +125,8 @@ Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de 
 
 </p>
 
-<p align="center">
-
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100">
-
 ### ♡ Gracias por visitar mi perfil ♡
 
-</p>
 
 
 
