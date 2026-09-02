@@ -20,8 +20,6 @@
 
 # 🌸 Sobre mí ♡
 
-Soy estudiante de **9.º ciclo de Ingeniería de Sistemas** en la Universidad César Vallejo.
-
 Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de soluciones digitales y con especial interés en Diseño UI/UX y experiencia de usuario. Cuento con conocimientos en HTML, CSS, JavaScript, diseño de interfaces, bases de datos SQL/MySQL y fundamentos de redes.Me interesa participar en proyectos donde pueda aplicar mis conocimientos en el diseño y desarrollo de interfaces funcionales, intuitivas y centradas en el usuario, mientras continúo fortaleciendo mis habilidades técnicas y profesionales.Destaco por mi capacidad de aprendizaje, resolución de problemas, creatividad, responsabilidad, trabajo en equipo y adaptación a nuevas tecnologías.
 
 > *Diseñar bonito es importante, pero diseñar pensando en quien lo utiliza lo es aún más.*
