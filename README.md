@@ -20,7 +20,8 @@
 
 # 🌸 Sobre mí ♡
 
-Estudiante de 9.º ciclo de Ingeniería de Sistemas, orientada al desarrollo de soluciones digitales y con especial interés en Diseño UI/UX y experiencia de usuario. Cuento con conocimientos en HTML, CSS, JavaScript, diseño de interfaces, bases de datos SQL/MySQL y fundamentos de redes.Me interesa participar en proyectos donde pueda aplicar mis conocimientos en el diseño y desarrollo de interfaces funcionales, intuitivas y centradas en el usuario, mientras continúo fortaleciendo mis habilidades técnicas y profesionales.Destaco por mi capacidad de aprendizaje, resolución de problemas, creatividad, responsabilidad, trabajo en equipo y adaptación a nuevas tecnologías.
+Estudiante de Ingeniería de Sistemas con conocimientos en desarrollo de software utilizando Java, HTML, CSS y JavaScript, así como en gestión de bases de datos con SQL Server y MySQL. Cuento también con conocimientos en diseño UI/UX y desarrollo de interfaces, orientados a la creación de soluciones funcionales, intuitivas, accesibles y centradas en las necesidades del usuario.
+Me interesa participar en el desarrollo e implementación de productos de software, fortaleciendo continuamente mis conocimientos y adquiriendo experiencia en nuevas tecnologías. Me caracterizo por mi capacidad de aprendizaje e investigación, creatividad, resolución de problemas, atención al detalle, responsabilidad y trabajo en equipo. Tengo disposición para adaptarme a nuevos entornos, asumir retos y contribuir de manera colaborativa en proyectos orientados a la mejora continua
 
 > *Diseñar bonito es importante, pero diseñar pensando en quien lo utiliza lo es aún más.*
 
